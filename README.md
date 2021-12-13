@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![header](assets/cover.jpg)
+![header](assets/cover.png)
