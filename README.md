@@ -7,8 +7,4 @@ In 2020 I've graduated from **[EMD School of Business](https://www.emd-managemen
 I'm currently studying as a [**Python App Developer**](https://openclassrooms.com/en/paths/514-python-developer) at Open Classrooms.
 I love space stuff, video games and programming.
 
-![AatroXiss' GitHub Stats](https://github-readme-stats.vercel.app/api?username=AatroXissTV&show_icons=tru&count_private=True&theme=dark)
-
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AatroXissTV&theme=dark&layout=compact)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=11120021353)
