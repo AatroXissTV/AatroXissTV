@@ -11,4 +11,4 @@ I love space stuff, video games and programming.
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AatroXissTV&theme=dark)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11120021353&theme=dark)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11120021353)
