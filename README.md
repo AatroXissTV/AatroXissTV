@@ -10,3 +10,5 @@ I love space stuff, video games and programming.
 ![AatroXiss' GitHub Stats](https://github-readme-stats.vercel.app/api?username=AatroXissTV&show_icons=tru&count_private=True&theme=dark)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AatroXissTV&theme=dark)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11120021353&theme=dark)
