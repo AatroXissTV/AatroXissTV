@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![header](https://raw.githubusercontent.com/AatroXissTV/AatroXissTV/master/assets/cover.jpg)
+![header](https://github.com/AatroXissTV/AatroXissTV/master/assets/cover.jpg)
