@@ -1,5 +1,3 @@
-![header](assets/cover.png)
-
 ### Hello World 👋
 
 I'm Antoine "AatroXiss" BEAUDESSON a student in Python. I'm currently learning to code in **Python** and **C++**.
